@@ -1,5 +1,10 @@
 # Today I Learned
-## 2010331
+## 20190401
 ### Python
 Hello!
 Today
+
+
+## 20190404
+* class
+* fuction
